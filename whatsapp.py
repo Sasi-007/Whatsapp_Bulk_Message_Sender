@@ -47,7 +47,7 @@ for name,ph in enumerate(phone):
         continue
 
 
-    msg = ' नमस्कार दोस्त ! अपने दोस्तों की  तरह SSC ,RRB exams में अपना score बढ़ाएं और all  India rank improve  करें . आज ही use करें Bodhi AI app . अपना free trial  लेने के लिए नीचे दिया गया promo code डालें : "WHATSAPP" .    Download Bodhi AI at http://bit.ly/2WDBIh8'
+    msg = 'Message'
     #for n in range(5):
     #        try:
     #                msg_box = driver.find_element_by_class_name('_2S1VP')
